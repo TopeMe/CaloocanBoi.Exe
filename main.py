@@ -24,6 +24,7 @@ Para naman kahit papa'no gumaan\n
 """
 
 
+
 def caloocan_lyrics():
     #susig na notepad
     os.startfile('notepad')
