@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9170c608-03c9-4245-86a1-970ed8ec172c" name="Changes" comment="Done">
-      <change afterPath="$PROJECT_DIR$/CaloocanBoi.EXE/CaloocanBoi.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaloocanBoi.EXE/caloocanBoi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/caloocanBoi.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/caloocanBoi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,42 @@
       <option name="project" value="LOCAL" />
       <updated>1664717216426</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Done">
+      <created>1664717296898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664717296898</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Done">
+      <created>1664717419023</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664717419023</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Done">
+      <created>1664717591588</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664717591588</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Done">
+      <created>1664717662707</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664717662707</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Done">
+      <created>1664717749040</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664717749040</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -56,7 +88,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
