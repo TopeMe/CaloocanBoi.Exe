@@ -14,7 +14,7 @@ Siguro, nakakulong pa di
 Sa nakaraan, 'di makalaya\n"""
 
 def caloocan_music():
-    webbrowser.open('https://www.youtube.com/watch?v=0yz8l25jZgA')
+    webbrowser.open('https://www.youtube.com/watch?v=fV8lnDKTl4M')
 
 def caloocan_lyrics():
     #susig na notepad
@@ -32,6 +32,7 @@ def caloocan_bg_img():
 if __name__ == '__main__':
     #Run
     caloocan_music()
+    time.sleep(1)
     keyboard.press("windows")
     keyboard.press("d")
     keyboard.release("windows")
