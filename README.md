@@ -1,4 +1,8 @@
-# CaloocanBoi.Exe
-Made a meme into an exe becuase why not lol
+CaloocanBoi.Exe
+Resulta sa na bored
 
-Ehem....Cant Exit :)
+Instructions:
+Put .EXE and PNG in the same file 
+
+!WARNING!
+Wag e galaw ang mouse kapag hindi pa tapos nag tatype
