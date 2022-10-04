@@ -2,6 +2,7 @@ import ctypes
 import os
 import keyboard
 import time
+import webbrowser
 
 #caloocan location
 path = os.getcwd()
@@ -10,18 +11,10 @@ path = os.getcwd()
 lyrics = """Eh, paano kung hindi
 Hindi ka nakilala?
 Siguro, nakakulong pa di
-Sa nakaraan, 'di makalaya\n
+Sa nakaraan, 'di makalaya\n"""
 
-Ang sarili, dinadaya
-Yeah, naglalasing-lasing, hindi pala kaya    
-Yeah, ayokong magising nang 'di ka kasama
-Kung nandito ka sa tabi, mas masaya sana\n
-
-Ngayon, hinahanap ka, nasasaktan
-Buti na lang, may alak pa na nasasandalan
-Dinadaan ko lang sa amat ang nararamdaman
-Para naman kahit papa'no gumaan\n
-"""
+def caloocan_music():
+    webbrowser.open('https://www.youtube.com/watch?v=fV8lnDKTl4M')
 
 def caloocan_lyrics():
     #susig na notepad
@@ -29,7 +22,7 @@ def caloocan_lyrics():
     #matulog kasi pagod
     time.sleep(0.5)
     #type /w delay each letter
-    keyboard.write(lyrics,0.2)
+    keyboard.write(lyrics,0.1)
 
 def caloocan_bg_img():
     #change walpapir
@@ -38,6 +31,11 @@ def caloocan_bg_img():
 
 if __name__ == '__main__':
     #Run
+    caloocan_music()
+    time.sleep(1)
+    keyboard.press("windows")
+    keyboard.press("d")
+    keyboard.release("windows")
     caloocan_bg_img()
     caloocan_lyrics()
     #gi tapolan kog himo sa exit :) e off ra ninyos task manager goodluck <3
